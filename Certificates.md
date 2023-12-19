@@ -47,3 +47,6 @@
 ![PowerQueryPNG](https://github.com/NeilBacs/MyCertificates/assets/107451251/15661063-bf4b-4216-8e25-60500c1a9312)
 
 ![MicrosoftPowerBI](https://github.com/NeilBacs/MyCertificates/assets/107451251/33c68d46-fb14-42ce-b068-ccc5ebb88be6)
+
+![HandsOnDE](https://github.com/NeilBacs/MyCertificates/assets/107451251/b8b1f8d8-54e5-4471-9b92-747ba12b47ae)
+
